@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sneha Kapoor</h1>
-<h3 align="center">I am a Flutter developer</h3>
+<h3 align="center">A passionate flutter developer from India. And currently working on my skills to become a mobile app developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehakapoo1&label=Profile%20views&color=0e75b6&style=flat" alt="snehakapoo1" /> </p>
 
