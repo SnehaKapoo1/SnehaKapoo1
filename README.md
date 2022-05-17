@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sneha kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sneha kapoor" height="30" width="40" /></a>
-<a href="https://instagram.com/codebee___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamsnehakapoor8" height="30" width="40" /></a>
+<a href="https://instagram.com/iamsnehakapoor8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamsnehakapoor8" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/snehakapoor1193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="snehakapoor1193" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sneha8427" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sneha8427" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/snehakapoor1193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="snehakapoor1193" height="30" width="40" /></a>
